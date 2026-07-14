@@ -34,17 +34,6 @@ Passionate about Software Engineering, Web Development and Building Secure Appli
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=You-sra1&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=You-sra1&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🚀 What I Like Building
 
